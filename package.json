@@ -2,7 +2,7 @@
   "name": "Go-Noji.reversePaneColor",
   "title": "Reverse Pane Color",
   "description": "This extentsion can reverse the color of a pane choosing now.",
-  "homepage": "https://github.com/yourname/yourproject",
+  "homepage": "https://github.com/Go-Noji/ReversePaneColor",
   "version": "1.0.0",
   "author": "Go Noji <gisosyadfe@gmail.com> (http://noji.wpblog.jp/)",
   "license": "MIT",
