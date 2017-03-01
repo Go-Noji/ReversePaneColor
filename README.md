@@ -12,6 +12,7 @@ Why do not you change your mood when your eyes get tired?
 
 ## Usage
 Shortcut: Alt + 3
+
 Menu: View > ReversePaneColor
 
 Once it is executed once again, it will be released.
