@@ -17,8 +17,8 @@ Menu: View > ReversePaneColor
 Once it is executed once again, it will be released.
 
 ## Installation
-* Method 1: Open the Brackets Extension Manager and search for `ReversePaneColor`
-* Method 2: Download directly from GitHub using either the latest release and install the contents to `extensions/user/reversePaneColor` folder.
+1: Open the Brackets Extension Manager and search for `Reverse Pane Color`.
+2: Please push install button.
 
 ## License
 The MIT License
